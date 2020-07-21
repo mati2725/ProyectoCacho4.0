@@ -1,12 +1,7 @@
 # depslib dependency file v1.0
-1595312646 source:d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\main.cpp
+1595306318 source:d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\main.cpp
 	<iostream>
-	<string.h>
-	<iomanip>
-	"Candy.h"
 	"Menues.h"
 
-1595311164 d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\menues.h
-
-1595312545 d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\candy.h
+1595306927 d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\menues.h
 
