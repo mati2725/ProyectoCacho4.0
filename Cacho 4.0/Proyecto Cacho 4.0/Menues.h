@@ -2,12 +2,15 @@
 #define MENUES_H_INCLUDED
 
 int MenuPrincipal(){
-    cout<<"MENU DEL CANDY"<<endl;
-    cout<<"MENU DEL CINE"<<endl;
-    cout<<"SUSCRIPTORES"<<endl;
-    cout<<"PERSONAL"<<endl;
-    cout<<"CONFIGURACIONES"<<endl;
-    cout<<"MENU INFORMES"<<endl;
+    int opcion;
+    cout<<"1- MENU DEL CANDY"<<endl;
+    cout<<"2- MENU DEL CINE"<<endl;
+    cout<<"3- SUSCRIPTORES"<<endl;
+    cout<<"4- PERSONAL"<<endl;
+    cout<<"5- CONFIGURACIONES"<<endl;
+    cout<<"6- MENU INFORMES"<<endl<<endl;
+    cin>>opcion;
+    return opcion;
 }
 
 #endif // MENUES_H_INCLUDED
