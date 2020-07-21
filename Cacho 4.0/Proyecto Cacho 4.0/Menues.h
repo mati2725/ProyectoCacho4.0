@@ -13,4 +13,10 @@ int MenuPrincipal(){
     return opcion;
 }
 
+int MenuCandy(){
+    int opcion;
+    cin>>opcion;
+    return opcion;
+}
+
 #endif // MENUES_H_INCLUDED
