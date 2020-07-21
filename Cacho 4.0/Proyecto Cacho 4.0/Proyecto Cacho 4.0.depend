@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1595310125 source:c:\users\amp\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\main.cpp
 	<iostream>
 	<string.h>
@@ -14,4 +15,11 @@
 	<time.h>
 
 1595312385 c:\users\amp\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\suscriptores.h
+=======
+1595306318 source:d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\main.cpp
+	<iostream>
+	"Menues.h"
+
+1595306927 d:\documents\github\proyectocacho4.0\cacho 4.0\proyecto cacho 4.0\menues.h
+>>>>>>> f13769feeaa601ec93563bbccc58d657b55cdd25
 

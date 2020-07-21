@@ -15,6 +15,7 @@ int MenuPrincipal(){
     return opcion;
 }
 
+<<<<<<< HEAD
 void MenuSuscriptores(){
 
 int Opcion;
@@ -68,4 +69,12 @@ case 6:
 }
 
 
+=======
+int MenuCandy(){
+    int opcion;
+    cin>>opcion;
+    return opcion;
+}
+
+>>>>>>> f13769feeaa601ec93563bbccc58d657b55cdd25
 #endif // MENUES_H_INCLUDED
